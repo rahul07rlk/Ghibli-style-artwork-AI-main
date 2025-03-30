@@ -47,7 +47,7 @@ Ensure your input image (`my_photo.jpg`) is placed in the `input_images` folder.
 
 ### 3. Run the Script
 ```python
-!python ghibli_sdxl_generator.py
+!python advanced_art_style.py
 ```
 
 ## Parameters
