@@ -64,7 +64,7 @@ Ensure your input image (`my_photo.jpg`) is placed in the `input_images` folder.
 ## Example Output
 | Input Image                      | Ghibli-Style Output |
 |----------------------------------|--------------------|
-| ![input](input_images/input.png) | ![output](output_images/styled_image.png) |
+| ![input](input_images/input.jpg) | ![output](output_images/styled_image.png) |
 
 ## Notes
 - Higher `guidance` values increase prompt adherence but may reduce originality.
