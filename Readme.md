@@ -72,7 +72,7 @@ Ensure your input image (`my_photo.jpg`) is placed in the `input_images` folder.
 - Negative prompts (`blurry, low quality, dark, oversaturated`) prevent unwanted artifacts.
 
 ## License
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use .
 
 ---
 Enjoy generating your Ghibli-style images! 🚀
@@ -120,3 +120,4 @@ for filename in uploaded.keys():
 print("Uploaded and moved files to input_images/")
 
 !python advanced_art_style.py --style best --prompt "A breathtaking masterpiece painting in a hyper-realistic, surreal style" --input my_photo.jpg --output styled_image.png --strength 1.0 --guidance_scale 8.0 --steps 50
+##  Professor Genius
